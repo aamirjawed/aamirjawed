@@ -26,15 +26,15 @@ const Contact = () => {
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>dummy@gmail.com</h5>
-            <a href='mailto:dummy@gmail.com' target='_blank'>Send a message</a>
+            <h5>responsetoaamir@gmail.com</h5>
+            <a href='mailto:responsetoaamir@gmail.com' target='_blank'>Send a message</a>
           </article>
-          <article className='contact__option'>
+          {/* <article className='contact__option'>
             <SlSocialInstagram className='contact__option-icon'/>
             <h4>Instagram</h4>
             <h5>Aamir Jawed</h5>
             <a href='https://www.instagram.com/direct/inbox/' target='_blank'>Send a message</a>
-          </article>
+          </article> */}
           <article className='contact__option'>
             <FaLinkedin className='contact__option-icon'/>
             <h4>Linked</h4>

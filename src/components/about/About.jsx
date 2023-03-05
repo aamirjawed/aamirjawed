@@ -39,9 +39,8 @@ const About = () => {
           </div>
 
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-          nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          I am Aamir Jawed and I am a Web Developer and currently working with react js and already made
+          so many project using react js and I know Cloud Computing too.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
