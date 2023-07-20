@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/OSMS.png'
+import IMG1 from '../../assets/gpt-3.png'
 // import IMG2 from '../../assets/news.png'
 // import IMG3 from '../../assets/fake.png'
 // import IMG4 from '../../assets/todo.png'
@@ -14,9 +14,9 @@ const data = [
   {
     id:1,
     image: IMG1,
-    title:'Online Service Management System',
-    github:'https://github.com/aamirjawed/OSMS',
-    demo:'https://github.com/aamirjawed'
+    title:'GPT-3 UI/UX',
+    github:'https://github.com/aamirjawed/GPT-3.git',
+    demo:' http://aamir-jawed.me/GPT-3/'
   },
 
   {
@@ -77,7 +77,7 @@ const Portfolio = () => {
               <h3>{title}</h3>
               <div className='portfolio__item-cta'>
               <a href={github} className='btn' target='_blank'>Github</a>
-              {/* <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a> */}
+              <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
               </div>
               <div></div>
               </article>
