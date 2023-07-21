@@ -1,5 +1,6 @@
 {
-  "homepage": "http://aamirjawed.github.io/aamirjawed",
+  "homepage": "http://aamirjawed.github.io/",
+  "name":"aamirjawed",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
