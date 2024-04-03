@@ -2,6 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/gpt-3.png'
 // import IMG2 from '../../assets/news.png'
+import IMG2 from '../../assets/bangles.png'
 // import IMG3 from '../../assets/fake.png'
 // import IMG4 from '../../assets/todo.png'
 // import IMG5 from '../../assets/bookstore.png'
@@ -16,15 +17,15 @@ const data = [
     image: IMG1,
     title:'GPT-3 UI/UX',
     github:'https://github.com/aamirjawed/GPT-3.git',
-    demo:' http://aamir-jawed.me/GPT-3/'
+    demo:'https://ui-gpt.netlify.app'
   },
 
   {
     id:2,
-    image:IMg,
-    title:'Work is in progress',
-    github:'https://github.com/aamirjawed',
-    demo:'https://github.com/aamirjawed'
+    image:IMG2,
+    title:'Bangles Shop',
+    github:'https://github.com/aamirjawed/E-Commerce-Client-.git',
+    demo:'https://bangles.netlify.app/'
   },
 
   {
