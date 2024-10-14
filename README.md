@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **react, node, express, aws, java**
+- 💬 Ask me about **React, JavaScript, Redux, AWS, Java**
 
-- 📫 How to reach me **responsetoaamir@gmail.com**
+- 📫 How to reach me **aamirjawed.muz@gmail.com**
 
-- ⚡ Fun fact **I think that you think I am a good developer. Yeah, you are right.**
+- ⚡ Fun fact **I think you think I am a good developer. Yeah, you are right.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
