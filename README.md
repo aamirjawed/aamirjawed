@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **React, JavaScript, Redux, AWS, Java**
+- 💬 Ask me about **React, JavaScript, Redux, AWS, Java, Node, Express, MongoDB, SQL**
 
 - 📫 How to reach me **aamirjawed.muz@gmail.com**
 
